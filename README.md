@@ -12,8 +12,8 @@ Github: 	https://github.com/Lexamulat
 
                                                   EDUCATION
 
-      2016–2020	          Saint Petersburg State University of Aerospace Instrumentation (SUAI),       Average grade for the entire period 
-                         institute of computing systems and programming,                               of study: 5.
+      2016–2020	          Saint Petersburg State University of Aerospace Instrumentation (SUAI),  Average grade for the entire period 
+                         institute of computing systems and programming,                          of study: 5.
                          bachelor’s degree in software engineering.
 	                                                                    
 
@@ -21,8 +21,8 @@ Github: 	https://github.com/Lexamulat
 
                                             ADDITIONAL EDUCATION
 
-     2017–2019	         Institute of Military Education, (Reserve Officer).                            Average grade for the entire period 
-                        Theory and methodology of radiolocation courses in                              of study: 5.
+     2017–2019	         Institute of Military Education, (Reserve Officer).                       Average grade for the entire period 
+                        Theory and methodology of radiolocation courses in                         of study: 5.
                         Saint Petersburg State University of Aerospace Instrumentation.
                         
 	
@@ -65,11 +65,11 @@ I have:
       (Flex / Bison, syntax / semantic analysis, LL (1), LR (1), attribute grammar).
 
 
-                      FOREIGN LANGUAGES:                                                                  HOBBIEs:
+                      FOREIGN LANGUAGES:                                                            HOBBIEs:
                       
-            English (10 years in school + 2 years in                                      Learning new technologies(pet projects),
-            university). I can read professional documentation, 	                        playing chess, reading books(technical 
-            maintain simple dialogues.                                                    and artistic).Powerlifting, crossfit 
-                                                                                          (3-4 times a week).
+            English (10 years in school + 2 years in                                   Learning new technologies(pet projects),
+            university). I can read professional documentation, 	               playing chess, reading books(technical 
+            maintain simple dialogues.                                                 and artistic).Powerlifting, crossfit 
+                                                                                       (3-4 times a week).
  
 
