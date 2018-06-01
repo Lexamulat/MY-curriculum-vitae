@@ -1,6 +1,8 @@
-Kilin Daniil Victorovich                            	                          Telephone: 	mobile: +7-981-937-06-57 
-                                                                                       	  Email:  	lexamulat@mail.ru  
-                                                                                          Github: 	https://github.com/Lexamulat
+Kilin Daniil Victorovich                     
+
+Telephone: 	mobile: +7-981-937-06-57 
+Email:  	lexamulat@mail.ru  
+Github: 	https://github.com/Lexamulat
         professional interests:
         •	Web-technologies (Full Stack Web Developer)
         •	Writing programs in C++.
